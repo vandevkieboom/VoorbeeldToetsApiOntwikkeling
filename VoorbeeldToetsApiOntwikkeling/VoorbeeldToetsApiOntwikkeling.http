@@ -1,0 +1,6 @@
+@VoorbeeldToetsApiOntwikkeling_HostAddress = http://localhost:5136
+
+GET {{VoorbeeldToetsApiOntwikkeling_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
